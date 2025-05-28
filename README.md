@@ -1,6 +1,8 @@
 ## Hey there! 👋 I'm ProCreations
 
-Just a developer who's obsessed with AI and loves building cool stuff!
+Just a developer who's ~~slightly~~ completely obsessed with AI and loves building cool stuff! 
+
+*Warning: May spontaneously start explaining neural networks at parties* 🤖
 
 ### 🤖 What I'm About
 - **AI Enthusiast** - Always experimenting with new models and techniques
