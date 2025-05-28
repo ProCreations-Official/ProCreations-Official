@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @ProCreations-Official
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning about more AI
-- 💞️ I’m looking to collaborate on AI projects and odels
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like chicken nuggets
+## Hey there! 👋 I'm ProCreations
+
+Just a developer who's obsessed with AI and loves building cool stuff!
+
+### 🤖 What I'm About
+- **AI Enthusiast** - Always experimenting with new models and techniques
+- **Python & JavaScript** - My go-to languages for bringing ideas to life
+- **Gaming Projects** - Check out my fun coding experiments in [Claude-4-coding-projects](https://github.com/ProCreations-Official/Claude-4-coding-projects)
+- **Chat Models** - Working on small AI models like [intellite](https://github.com/ProCreations-Official/intellite)
+
+### 🚀 Currently...
+- 🌱 Learning more about AI architectures and training
+- 🔨 Building various AI projects (some secret, some not so secret)
+- 💞️ Looking to collaborate on AI projects and models
+- 🎮 Making games and interactive demos to test new tech
+
+### 📫 Let's Connect!
+Hit me up if you want to chat about AI, collaborate on projects, or just talk tech!
+
+**Pronouns:** he/him  
+**Fun fact:** I like chicken nuggets 🍗
+
+---
+*Currently vibing with Claude 4 and seeing what we can build together!*
 
 <!---
 ProCreations-Official/ProCreations-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
