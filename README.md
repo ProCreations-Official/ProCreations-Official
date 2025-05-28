@@ -21,10 +21,13 @@ Just a developer who's ~~slightly~~ completely obsessed with AI and loves buildi
 Hit me up if you want to chat about AI, collaborate on projects, or just talk tech!
 
 **Pronouns:** he/him  
-**Fun fact:** I like chicken nuggets 🍗
+**Fun facts:** 
+- I like chicken nuggets 🍗 (the superior food group)
+- My rubber duck debugging actually involves explaining code to my plants 🪴
+- I once spent 3 hours debugging only to realize I forgot a semicolon (classic)
 
 ---
-*Currently vibing with Claude 4 and seeing what we can build together!*
+*Currently vibing with Claude 4 and seeing what we can build together! (Spoiler: probably more than I initially planned)*
 
 <!---
 ProCreations-Official/ProCreations-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
