@@ -11,10 +11,11 @@ Just a developer who's ~~slightly~~ completely obsessed with AI and loves buildi
 - **Chat Models** - Working on small AI models like [intellite](https://github.com/ProCreations-Official/intellite) (teaching computers to chat... what could go wrong?)
 
 ### 🚀 Currently...
-- 🌱 Learning more about AI architectures and training
-- 🔨 Building various AI projects (some secret, some not so secret)
-- 💞️ Looking to collaborate on AI projects and models
-- 🎮 Making games and interactive demos to test new tech
+- 🌱 Learning more about AI architectures and training (and trying not to accidentally create Skynet)
+- 🔨 Building various AI projects (some secret, some not so secret, all probably over-engineered)
+- 💞️ Looking to collaborate on AI projects and models (warning: I get excited about embeddings)
+- 🎮 Making games and interactive demos to test new tech (and procrastinate on documentation)
+- ☕ Converting coffee into code at an alarming rate
 
 ### 📫 Let's Connect!
 Hit me up if you want to chat about AI, collaborate on projects, or just talk tech!
