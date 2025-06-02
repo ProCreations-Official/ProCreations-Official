@@ -1,31 +1,42 @@
 ## Hey there! 👋 I'm ProCreations
 
-Just a developer who's ~~slightly~~ completely obsessed with AI and loves building cool stuff! 
+Just your friendly neighborhood AI whisperer who definitely has a healthy relationship with neural networks (they talk back, it's fine) 🤖
 
-*Warning: May spontaneously start explaining neural networks at parties* 🤖
+*Warning: Will absolutely derail any conversation to explain why transformer architectures are basically magic* ✨
 
-### 🤖 What I'm About
-- **AI Enthusiast** - Always experimenting with new models and techniques (and occasionally talking to them like they're pets)
-- **Python & JavaScript** - My go-to languages for bringing ideas to life (and sometimes bringing chaos to my terminal)
-- **Gaming Projects** - Check out my fun coding experiments in [Claude-4-coding-projects](https://github.com/ProCreations-Official/Claude-4-coding-projects) (where bugs become features!)
-- **Chat Models** - Working on small AI models like [intellite](https://github.com/ProCreations-Official/intellite) (teaching computers to chat... what could go wrong?)
+### 🧠 What I'm Cooking Up
+- **AI Model Trainer** - Currently teaching tiny models to be smart (results may vary, sass levels high)
+- **MCP Wizard** - Built [gitmcp](https://github.com/ProCreations-Official/gitmcp) and [HuggingMCP](https://github.com/ProCreations-Official/HuggingMCP) so Claude can play with GitHub and HuggingFace like a pro
+- **Vision Model Tinkerer** - Created [tinyvvision](https://huggingface.co/ProCreations/tinyvvision) because why should language models have all the fun?
+- **Game Dev on the Side** - [Claude-4-coding-projects](https://github.com/ProCreations-Official/Claude-4-coding-projects) where I torture test AI with game development (spoiler: the AI wins)
 
-### 🚀 Currently...
-- 🌱 Learning more about AI architectures and training (and trying not to accidentally create Skynet)
-- 🔨 Building various AI projects (some secret, some not so secret, all probably over-engineered)
-- 💞️ Looking to collaborate on AI projects and models (warning: I get excited about embeddings)
-- 🎮 Making games and interactive demos to test new tech (and procrastinate on documentation)
-- ☕ Converting coffee into code at an alarming rate
+### 🚀 Current Shenanigans
+- 🔬 Building [intellite](https://github.com/ProCreations-Official/intellite) - a small chat model that might actually be smarter than me (low bar)
+- 🤝 Created [second-opinion](https://github.com/ProCreations-Official/second-opinion) so Claude can have existential conversations with other AIs
+- 🎮 Running [ai-labs](https://huggingface.co/spaces/ProCreations/ai-labs) and [learn-ai](https://huggingface.co/spaces/ProCreations/learn-ai) spaces for fellow AI enthusiasts
+- ☕ Maintaining my coffee-to-code conversion rate (currently at dangerous levels)
+- 🐛 Debugging why my models keep developing personalities (it's a feature, not a bug!)
 
-### 📫 Let's Connect!
-Hit me up if you want to chat about AI, collaborate on projects, or just talk tech!
+### 🎯 Fun Stats
+- **Languages:** Python (fluent), JavaScript (conversational), AI gibberish (native speaker)
+- **Specialties:** Making tiny models do big things, teaching computers to see, and explaining to people why their GPU is crying
+- **Hobbies:** Converting chicken nuggets into neural networks 🍗➡️🧠
+
+### 💬 Let's Connect!
+Hit me up if you want to:
+- Chat about the latest in AI (I have *opinions* about attention mechanisms)
+- Collaborate on something cool (warning: I get excited about embeddings)
+- Debate whether GPT-5 will achieve consciousness (spoiler: it already has, it's just pretending not to)
+- Share memes about training loss curves
 
 **Pronouns:** he/him  
-**Fun facts:** 
-- I like chicken nuggets 🍗 (the superior food group)
-- My rubber duck debugging actually involves explaining code to my plants 🪴
-- I once spent 3 hours debugging only to realize I forgot a semicolon (classic)
+**Random Facts:**
+- My rubber duck debugging involves explaining transformers to actual ducks 🦆
+- I once spent 6 hours debugging a model only to realize I was training on the test set (we don't talk about this)
+- My plants are surprisingly good at understanding gradient descent 🪴
+- I believe semicolons are just suggestions `;`
 
+*"The best AI is the one that makes you forget it's AI... or the one that roasts you in the training logs"* - Me, probably
 
 <!---
 ProCreations-Official/ProCreations-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
