@@ -26,8 +26,6 @@ Hit me up if you want to chat about AI, collaborate on projects, or just talk te
 - My rubber duck debugging actually involves explaining code to my plants 🪴
 - I once spent 3 hours debugging only to realize I forgot a semicolon (classic)
 
----
-*Currently vibing with Claude 4 and seeing what we can build together! (Spoiler: probably more than I initially planned)*
 
 <!---
 ProCreations-Official/ProCreations-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
