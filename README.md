@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm an AI researcher and developer focused on building the next generation of intelligent systems. My work spans large language models, neural architecture design, and AI tool integration through the Model Context Protocol.
+I'm an AI researcher and developer focused on building the next generation of intelligent systems. My work spans large language models, neural architecture design, and AI tool integration through the Model Context Protocol. Currently trying to remove the common thought that bigger is better for AI models, with Intellite.
 
 **Current Focus:**
 - 🤖 Large Language Models and Neural Networks
