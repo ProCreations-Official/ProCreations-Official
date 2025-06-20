@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ProCreations%20Official&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Research%20%26%20Development&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ProCreations%20Official&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Research%20and%20Development&descAlignY=65&descSize=20"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Research+Engineer;Machine+Learning+Specialist;Neural+Network+Architect;MCP+Server+Developer)](https://git.io/typing-svg)
 
@@ -39,25 +39,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProCreations-Official&custom_title=Development%20Activity%20Graph&bg_color=0D1117&color=79c0ff&line=58a6ff&point=1f6feb&area=true&hide_border=true&theme=react-dark" width="100%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-## Technical Expertise
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,git,github,vscode,linux,docker,kubernetes&theme=dark&perline=10" />
-
-<br><br>
-
-| Core Technologies | Research Focus | Development Tools |
-|:-----------------:|:--------------:|:-----------------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=flat-square&logo=openai&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![ML](https://img.shields.io/badge/Machine_Learning-4ECDC4?style=flat-square&logo=tensorflow&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![MCP](https://img.shields.io/badge/MCP_Protocol-4A90E2?style=flat-square&logo=serverfault&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ## GitHub Analytics
 
@@ -86,26 +68,133 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## Research & Development Portfolio
+## Active Research Projects
 
 <div align="center">
 
-<details>
-<summary><b>Explore Active Projects</b></summary>
+### 🔬 AI Infrastructure and Integration
 
-<br>
+<table>
+<tr>
+<td width="48%">
 
-| Project | Description | Technology Stack | Status |
-|:--------|:------------|:----------------|:-------|
-| **[Second Opinion](https://github.com/ProCreations-Official/second-opinion)** | Multi-AI model integration via MCP protocol | `Python` `MCP` `API Integration` | [![Stars](https://img.shields.io/github/stars/ProCreations-Official/second-opinion?style=flat-square)](https://github.com/ProCreations-Official/second-opinion) |
-| **[On-the-Fly](https://github.com/ProCreations-Official/on-the-fly)** | Adaptive AI agent with dynamic tool generation | `Python` `CLI` `Real-time Processing` | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
-| **[Intellite](https://github.com/ProCreations-Official/intellite)** | High-efficiency compressed language models | `PyTorch` `Neural Architecture` | ![Development](https://img.shields.io/badge/Status-Development-orange?style=flat-square) |
-| **[Reinforcement Pre-Training](https://github.com/ProCreations-Official/reinforcement-pretraining)** | Implementation of ArXiv:2506.08007 research | `Reinforcement Learning` `Research` | [![Stars](https://img.shields.io/github/stars/ProCreations-Official/reinforcement-pretraining?style=flat-square)](https://github.com/ProCreations-Official/reinforcement-pretraining) |
-| **[HuggingMCP](https://github.com/ProCreations-Official/HuggingMCP)** | HuggingFace ecosystem integration for Claude | `MCP` `HuggingFace API` | [![Forks](https://img.shields.io/github/forks/ProCreations-Official/HuggingMCP?style=flat-square)](https://github.com/ProCreations-Official/HuggingMCP) |
-| **[BitNet v3](https://github.com/ProCreations-Official/bitnet-v3)** | Ultra-efficient 1-bit neural networks | `Model Compression` `Quantization` | ![Research](https://img.shields.io/badge/Type-Research-blue?style=flat-square) |
-| **[Simplelite](https://github.com/ProCreations-Official/Simplelite)** | Decoder-only transformer with advanced features | `Transformers` `GeGLU` `RoPE` | ![Private](https://img.shields.io/badge/Access-Private-red?style=flat-square) |
+**🤖 Second Opinion MCP**
+[![Stars](https://img.shields.io/github/stars/ProCreations-Official/second-opinion?style=flat-square)](https://github.com/ProCreations-Official/second-opinion)
 
-</details>
+Multi-AI model integration via MCP protocol. Connects Claude to 25+ AI services including OpenAI, Gemini, Grok, local models, and enterprise platforms.
+
+*Key Features:* Cross-platform AI comparison, group discussions, conversation persistence, 800,000+ HuggingFace models
+
+*Tech Stack:* `Python` `MCP` `API Integration` `Multi-Provider`
+
+</td>
+<td width="48%">
+
+**⚡ On-the-Fly Agent**
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/ProCreations-Official/on-the-fly)
+
+Revolutionary AI agent that dynamically generates MCP tools on-demand. Beautiful CLI interface with multi-provider support and real-time adaptation.
+
+*Key Features:* Dynamic tool generation, beautiful terminal UI, multi-domain capabilities, auto-detection
+
+*Tech Stack:* `Python` `CLI` `Real-time Processing` `smolagents`
+
+</td>
+</tr>
+</table>
+
+### 🧠 Neural Network Research
+
+<table>
+<tr>
+<td width="48%">
+
+**🔬 Reinforcement Pre-Training**
+[![Stars](https://img.shields.io/github/stars/ProCreations-Official/reinforcement-pretraining?style=flat-square)](https://github.com/ProCreations-Official/reinforcement-pretraining)
+
+Implementation of ArXiv:2506.08007 research. Treats next-token prediction as reasoning tasks with verifiable rewards, leading to improved accuracy and robust understanding.
+
+*Key Features:* Next-token reasoning, scalable training, comprehensive metrics, visualization tools
+
+*Tech Stack:* `PyTorch` `Reinforcement Learning` `Research`
+
+</td>
+<td width="48%">
+
+**⚡ BitNet v3**
+[![Research](https://img.shields.io/badge/Type-Research-blue?style=flat-square)](https://github.com/ProCreations-Official/bitnet-v3)
+
+Ultra-efficient 1-bit neural networks with progressive quantization and adaptive Hadamard transform. Achieves ultra-low quality loss in compressed models.
+
+*Key Features:* 1-bit quantization, progressive training, quality preservation
+
+*Tech Stack:* `Model Compression` `Quantization` `Neural Architecture`
+
+</td>
+</tr>
+</table>
+
+### 🌐 HuggingFace Ecosystem
+
+<table>
+<tr>
+<td width="48%">
+
+**🌉 HuggingMCP**
+[![Forks](https://img.shields.io/github/forks/ProCreations-Official/HuggingMCP?style=flat-square)](https://github.com/ProCreations-Official/HuggingMCP)
+
+Advanced MCP server for HuggingFace Hub operations. 18+ specialized tools covering model evaluation, dataset processing, license management, and AI workflow automation.
+
+*Key Features:* Model evaluation, space management, community features, batch operations
+
+*Tech Stack:* `MCP` `HuggingFace API` `Model Management`
+
+</td>
+<td width="48%">
+
+**🔧 GitMCP**
+[![Active](https://img.shields.io/badge/Status-Maintained-green?style=flat-square)](https://github.com/ProCreations-Official/gitmcp)
+
+GitHub integration MCP server with Anthropic Integrations support. Enables Claude to perform comprehensive GitHub operations for enhanced development workflows.
+
+*Key Features:* Remote connectivity, comprehensive GitHub ops, workflow automation
+
+*Tech Stack:* `Python` `GitHub API` `Remote Integration`
+
+</td>
+</tr>
+</table>
+
+### 🔬 Advanced AI Models
+
+<table>
+<tr>
+<td width="48%">
+
+**🧠 Intellite**
+![Private](https://img.shields.io/badge/Access-Private-red?style=flat-square)
+
+High-efficiency compressed language models. Compresses SOTA features into smaller models to maximize quality and accessibility while maintaining performance.
+
+*Key Features:* SOTA compression, quality optimization, efficiency focus
+
+*Tech Stack:* `PyTorch` `Neural Architecture` `Model Compression`
+
+</td>
+<td width="48%">
+
+**🏗️ Simplelite**
+![Development](https://img.shields.io/badge/Status-Development-orange?style=flat-square)
+
+Decoder-only transformer implementation with GeGLU activation, RoPE positional encoding, and multi-device support for distributed training.
+
+*Key Features:* GeGLU activation, RoPE encoding, multi-device support
+
+*Tech Stack:* `Transformers` `GeGLU` `RoPE` `Distributed`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -216,9 +305,9 @@ computation become indistinguishable from consciousness?
 
 <img src="https://user-images.githubusercontent.com/74038190/212284075-2475946a-8a5c-407b-8c00-e2d6be2a85ce.gif" width="600">
 
-### Research Collaboration & Technical Discussion
+### Research Collaboration and Technical Discussion
 
-**Areas of Interest:** Large Language Models, Model Context Protocol, Neural Architecture Research, AI Safety & Alignment
+**Areas of Interest:** Large Language Models, Model Context Protocol, Neural Architecture Research, AI Safety and Alignment
 
 **Currently Seeking:** Research collaborations, technical partnerships, and meaningful discourse on the future of artificial intelligence.
 
