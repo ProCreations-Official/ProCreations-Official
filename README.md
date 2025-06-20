@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ProCreations%20Official&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Research%20and%20Development&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ProCreations&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Research%20and%20Development&descAlignY=65&descSize=20"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Developer;AI+Enthusiast;AI+EVERYTHING)](https://git.io/typing-svg)
 
