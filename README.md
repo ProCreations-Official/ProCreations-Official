@@ -77,7 +77,7 @@ Feel free to reach out through my website or explore my repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&reversal=true&textBg=false&animation=fadeIn"/>
 
-*Building tomorrow's intelligence, one commit at a time.*
+*Building tomorrow's intelligence, one messy commit at a time.*
 
 [![Research](https://img.shields.io/badge/Research-Continuous-brightgreen?style=flat-square)](https://pro-creations.replit.app)
 [![Innovation](https://img.shields.io/badge/Innovation-Active-blue?style=flat-square)](https://github.com/ProCreations-Official)
