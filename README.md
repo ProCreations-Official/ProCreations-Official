@@ -31,7 +31,7 @@ I'm an AI researcher and developer focused on building the next generation of in
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ProCreations-Official&show_icons=true&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ProCreations-Official&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </td>
 <td width="50%">
